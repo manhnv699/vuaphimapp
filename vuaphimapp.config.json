@@ -1,0 +1,5 @@
+{
+    "hostApi": "https://anime-play.info/api",
+    "hostApiAccount": "https://anime-play.info/api/account",
+    "hostApiFilm": "https://anime-play.info/api/films"
+}
